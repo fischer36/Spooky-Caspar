@@ -1,0 +1,1450 @@
+[aatrox]
+radius = 135
+attack_speed_base = 0.651
+attack_speed_ratio = 0.651
+attack_speed_windup_percent = 0.197
+[aatrox.spells.w]
+skillshot_type = "missile"
+
+[ahri]
+radius = 100
+attack_speed_base = 0.668
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.2
+[ahri.spells.q]
+skillshot_type = "missile"
+boomerang_width = 200
+boomerang_speed = 1550
+boomerang_range = 900
+[ahri.spells.e]
+skillshot_type = "missile"
+linear_width = 120
+linear_speed = 1550
+
+[akali]
+radius = 100
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.139
+[akali.spells.e]
+skillshot_type = "missile"
+skillshot_width = 120
+skillshot_range = 825
+skillshot_speed = 1500
+
+[akshan]
+radius = 100
+attack_speed_base = 0.638
+attack_speed_ratio = 0.4
+attack_speed_windup_percent = 0.133
+[akshan.spells.q]
+skillshot_type = "missile"
+
+
+[alistar]
+radius = 145
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.3
+
+[amumu]
+radius = 100
+attack_speed_base = 0.736
+attack_speed_ratio = 0.638
+attack_speed_windup_percent = 0.234
+[amumu.spells.q]
+skillshot_type = "missile"
+skillshot_range = 1100
+
+
+[anivia]
+radius = 140
+attack_speed_base = 0.658
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.2
+[anivia.spells.q]
+skillshot_type = "libear"
+skillshot_cast_time = 0.25
+skillshot_speed = 950
+skillshot_range = 1100
+
+[annie]
+radius = 100
+attack_speed_base = 0.61
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.196
+[annie.spells.r]
+skillshot_type = "circular_aoe"
+skillshot_radius = 250
+skillshot_cast_tume = 0.25
+
+[aphelios]
+radius = 110
+attack_speed_base = 0.64
+attack_speed_ratio = 0.64
+attack_speed_windup_percent = 0.153
+
+[ashe]
+radius = 120
+attack_speed_base = 0.658
+attack_speed_ratio = 0.658
+attack_speed_windup_percent = 0.219
+
+[aurelion_sol]
+radius = 165
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.2
+
+[azir]
+radius = 89
+attack_speed_base = 0.625
+attack_speed_ratio = 0.694
+attack_speed_windup_percent = 0.156
+[azir.spells.q]
+skillshot_type = "missile"
+skillshot_width = 140
+
+[bard]
+radius = 89
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.188
+[bard.spells.q]
+skillshot_type = "missile"
+skillshot_width = 60
+skillshot_speed = 1500
+skillshot_range = 850
+[bard.spells.r]
+skillshot_type = "circular_aoe"
+skillshot_radius = 350
+skillshot_cast_time = 0.25
+
+[belveth]
+radius = 120
+attack_speed_base = 0.85
+attack_speed_ratio = 0.85
+[belveth.spells.w]
+skillshot_type = "missile"
+skillshot_width = 200
+skillshot_range = 400
+
+[blitzcrank]
+radius = 165
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.27
+[blitzcrank.spells.q]
+skillshot_type = "missile"
+skillshot_width = 140
+skillshot_speed = 1800
+skillshot_range = 1150
+
+[brand]
+radius = 89
+attack_speed_base = 0.681
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.188
+[brand.spells.q]
+skillshot_type = "missile"
+skillshot_width = 120
+skillshot_speed = 1600
+
+[brand.spells.w]
+skillshot_type = "circular_aoe"
+skillshot_radius = 260
+skillshot_cast_time = 0.627
+
+[braum]
+radius = 100
+attack_speed_base = 0.644
+attack_speed_ratio = 0.644
+attack_speed_windup_percent = 0.23
+[braum.spells.q]
+skillshot_type = "missile"
+skillshot_width = 120
+skillshot_speed = 1700
+skillshot_range = 1050
+[braum.spells.r]
+skillshot_type = "missile"
+skillshot_width = 230
+skillshot_speed = 1400
+skillshot_cast_time = 0.5
+skillshot_range = 1200
+
+[briar.spells.r]
+skillshot_type = "missile"
+skillshot_width = 320
+skillshot_speed = 2000
+
+[briar]
+radius = 111
+attack_speed_base = 0.644
+attack_speed_ratio = 0.669
+attack_speed_windup_percent = 0.193
+
+[caitlyn]
+radius = 120
+attack_speed_base = 0.681
+attack_speed_ratio = 0.568
+attack_speed_windup_percent = 0.177
+[caitlyn.spells.q]
+skillshot_type = "missile"
+skillshot_width = 120
+skillshot_speed = 2200
+skillshot_range = 1300
+[caitlyn.spells.w]
+skillshot_type = "trap"
+trap_radius = 15
+trap_duration = 30      # 30 / 35 / 40 / 45 / 50
+[caitlyn.spells.e]
+skillshot_type = "missile"
+skillshot_width = 140
+skillshot_speed = 1600
+skillshot_range = 800
+[camille]
+radius = 100
+attack_speed_base = 0.644
+attack_speed_ratio = 0.644
+attack_speed_windup_percent = 0.193
+
+[cassiopeia]
+radius = 120
+attack_speed_base = 0.647
+attack_speed_ratio = 0.647
+attack_speed_windup_percent = 0.192
+[cassiopeia.spells.q]
+skillshot_type = "circular_aoe"
+
+[chogath]
+radius = 130
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+[chogath.spells.q]
+skillshot_type = "circular_aoe"
+skillshot_radius = 250
+
+[corki]
+radius = 135
+attack_speed_base = 0.638
+attack_speed_ratio = 0.638
+attack_speed_windup_percent = 0.1
+[corki.spells.r]
+skillshot_type = "missile"
+skillshot_width = 2000
+skillshot_speed = 80
+skillshot_range = 1300     # big one is 1500
+
+[drmundo.spells.q]
+skillshot_type = "missile"
+skillshot_width = 120
+skillshot_speed = 2000
+skillshot_range = 1050
+
+[darius]
+radius = 125
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.2
+
+[diana]
+radius = 75
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.208
+
+[drmundo]
+radius = 135
+attack_speed_base = 0.67
+attack_speed_ratio = 0.625
+
+[draven]
+radius = 111
+attack_speed_base = 0.679
+attack_speed_ratio = 0.679
+attack_speed_windup_percent = 0.156
+
+[ekko]
+radius = 120
+attack_speed_base = 0.688
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.163
+[ekko.spells.q]
+skillshot_type = "missile"
+skillshot_range = 1100
+skillshot_width = 180
+skillshot_speed = 1650
+skillshot_speed_back = 2300
+
+[elise]
+radius = 120
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.188
+[elise.spells.e]
+skillshot_type = "linear_name_based"
+skillshot_name = "Cocoon"
+skillshot_width = 110
+skillshot_speed = 1600
+skillshot_range = 1500
+
+[evelynn]
+radius = 120
+attack_speed_base = 0.667
+attack_speed_ratio = 0.667
+attack_speed_windup_percent = 0.153
+
+[ezreal]
+radius = 115
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.188
+[ezreal.spells.q]
+skillshot_type = "missile"
+skillshot_width = 120
+skillshot_speed = 2000
+skillshot_range = 1200
+[ezreal.spells.w]
+skillshot_type = "missile"
+skillshot_width = 160
+skillshot_speed = 1700
+skillshot_range = 1200
+[ezreal.spells.r]
+skillshot_type = "missile"
+skillshot_width = 320
+skillshot_speed = 1600
+
+[fiddlesticks]
+radius = 135
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.3
+
+[fiora]
+radius = 100
+attack_speed_base = 0.69
+attack_speed_ratio = 0.69
+attack_speed_windup_percent = 0.138
+
+[fizz]
+radius = 108
+attack_speed_base = 0.658
+attack_speed_ratio = 0.658
+attack_speed_windup_percent = 0.203
+[fizz.spells.r]
+skillshot_type = "missile"
+skillshot_width = 40
+skillshot_speed = 1300
+skillshot_range = 1300
+
+[galio]
+radius = 125
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.206
+
+[gangplank]
+radius = 85
+attack_speed_base = 0.658
+attack_speed_ratio = 0.69
+attack_speed_windup_percent = 0.164
+
+[garen]
+radius = 75
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.18
+
+[gnar]
+radius = 100
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.146
+[gnar.spells.q]
+skillshot_type = "missile"
+skillshot_width = 130
+skillshot_speed = 2000
+
+[gragas]
+radius = 155
+attack_speed_base = 0.675
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.25
+
+[graves]
+radius = 110
+attack_speed_base = 0.475
+attack_speed_ratio = 0.49
+attack_speed_windup_percent = 0.005
+[graves.spells.r]
+skillshot_type = "missile"
+skillshot_width = 200
+skillshot_speed = 2100
+skillshot_range = 1100
+
+[gwen]
+radius = 100
+attack_speed_base = 0.69
+attack_speed_ratio = 0.69
+attack_speed_windup_percent = 0.197
+[gwen.spells.r]
+skillshot_type = "missile"
+skillshot_width = 240
+skillshot_speed = 1800
+skillshot_range = 1350
+
+[hecarim]
+radius = 140
+attack_speed_base = 0.67
+attack_speed_ratio = 0.67
+attack_speed_windup_percent = 0.25
+
+[heimerdinger]
+radius = 100
+attack_speed_base = 0.658
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.2
+[heimerdinger.spells.w]
+skillshot_type = "missile"
+
+[illaoi]
+radius = 100
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.214
+[illaoi.spells.q]
+skillshot_type = "missile"
+skillshot_width = 200
+skillshot_range = 802
+[illaoi.spells.e]
+skillshot_type = "missile"
+skillshot_width = 100
+skillshot_speed = 1900
+skillshot_range = 950
+
+[irelia]
+radius = 100
+attack_speed_base = 0.656
+attack_speed_ratio = 0.656
+attack_speed_windup_percent = 0.197
+
+[ivern]
+radius = 140
+attack_speed_base = 0.644
+attack_speed_ratio = 0.644
+attack_speed_windup_percent = 0.2
+[ivern.spells.q]
+skillshot_type = "missile"
+skillshot_width = 160
+skillshot_speed = 1300
+skillshot_range = 1150
+
+[janna]
+radius = 125
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.2
+[janna.spells.q]
+skillshot_type = "missile"
+skillshot_width = 240
+skillshot_speed = 1000
+
+[jarvan_iv]
+radius = 125
+attack_speed_base = 0.658
+attack_speed_ratio = 0.658
+attack_speed_windup_percent = 0.175
+
+[jax]
+radius = 120
+attack_speed_base = 0.638
+attack_speed_ratio = 0.638
+attack_speed_windup_percent = 0.208
+
+[jayce]
+radius = 75
+attack_speed_base = 0.658
+attack_speed_ratio = 0.658
+attack_speed_windup_percent = 0.095
+
+[jhin]
+radius = 120
+attack_speed_base = 0.625
+attack_speed_windup_percent = 0.156
+[jhin.spells.w]
+skillshot_type = "missile"
+skillshot_width = 90
+skillshot_range = 2520
+
+[jinx]
+radius = 120
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.169
+[jinx.spells.w]
+skillshot_type = "missile"
+skillshot_width = 120
+skillshot_speed = 3300
+skillshot_range = 1500
+[jinx.spells.r]
+skillshot_type = "missile"
+skillshot_width = 280
+skillshot_speed = 2000
+
+[kaisa]
+radius = 100
+attack_speed_base = 0.644
+attack_speed_ratio = 0.644
+[kaisa.spells.w]
+skillshot_type = "missile"
+skillshot_width = 200
+skillshot_speed = 1750
+skillshot_range = 3000
+
+[kalista]
+radius = 100
+attack_speed_base = 0.694
+attack_speed_ratio = 0.694
+attack_speed_windup_percent = 0.36
+[kalista.spells.q]
+skillshot_type = "missile"
+skillshot_width = 80
+skillshot_speed = 2400
+skillshot_range = 1200
+
+[karma]
+radius = 120
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.161
+
+[karthus]
+radius = 100
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.344
+[karthus.spells.q]
+skillshot_type = "circular_aoe"
+skillshot_radius = 160
+skillshot_cast_time = 0.25
+
+[kassadin]
+radius = 120
+attack_speed_base = 0.64
+attack_speed_ratio = 0.64
+attack_speed_windup_percent = 0.15
+
+[katarina]
+radius = 120
+attack_speed_base = 0.658
+attack_speed_ratio = 0.658
+attack_speed_windup_percent = 0.15
+
+[kayle]
+radius = 140
+attack_speed_base = 0.625
+attack_speed_ratio = 0.667
+attack_speed_windup_percent = 0.194
+
+[kayn]
+radius = 135
+attack_speed_base = 0.669
+attack_speed_ratio = 0.669
+attack_speed_windup_percent = 0.187
+[kayn.spells.w]
+skillshot_type = "missile"
+
+[kennen]
+radius = 100
+attack_speed_base = 0.625
+attack_speed_ratio = 0.69
+attack_speed_windup_percent = 0.2
+[kennen.spells.q]
+skillshot_type = "missile"
+skillshot_width = 100
+skillshot_speed = 1700
+skillshot_range = 1050
+
+[khazix]
+radius = 130
+attack_speed_base = 0.668
+attack_speed_ratio = 0.668
+[khazix.spells.e]
+
+[kindred]
+radius = 120
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.175
+
+[kled]
+radius = 140
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.175
+
+[kogmaw]
+radius = 130
+attack_speed_base = 0.665
+attack_speed_ratio = 0.665
+[kogmaw.spells.q]
+skillshot_type = "missile"
+[kogmaw.spells.r]
+skillshot_type = "circular_aoe"
+skillshot_radius = 240
+
+[ksante]
+radius = 103
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+
+[leblanc]
+radius = 100
+attack_speed_base = 0.658
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.167
+[leblanc.spells.e]
+skillshot_type = "missile"
+skillshot_width = 110
+skillshot_speed = 1750
+skillshot_range = 950
+[leblanc.spells.w]
+skillshot_type = "circular_aoe"
+skillshot_radius = 240
+
+[leesin]
+radius = 103
+attack_speed_base = 0.651
+[leesin.spells.q]
+skillshot_type = "missile"
+skillshot_width = 120
+skillshot_speed = 1800
+skillshot_range = 1200
+
+[leona]
+radius = 75
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.229
+[leona.spells.e]
+skillshot_type = "missile"
+skillshot_width = 140
+skillshot_speed = 2000
+skillshot_range = 950
+[leona.spells.r]
+skillshot_type = "circular_aoe"
+skillshot_radius = 325
+
+[lillia]
+radius = 135
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.147
+[lillia.spells.e]
+skillshot_type = "missile"
+skillshot_width = 120
+skillshot_speed = 1400
+[lillia.spells.w]
+skillshot_type = "circular_aoe"
+skillshot_radius = 250
+skillshot_cast_time = 0.759
+
+[lissandra]
+radius = 89
+attack_speed_base = 0.656
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.188
+[lissandra.spells.q]
+skillshot_type = "missile"
+skillshot_width = 150
+skillshot_speed = 2200
+skillshot_range = 825      #/950
+
+[lucian]
+radius = 100
+attack_speed_base = 0.638
+attack_speed_ratio = 0.638
+attack_speed_windup_percent = 0.15
+
+[lulu]
+radius = 100
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.188
+[lulu.spells.q]
+skillshot_type = "missile"
+skillshot_width = 120
+skillshot_speed = 1450
+skillshot_range = 950
+
+[lux]
+radius = 100
+attack_speed_base = 0.669
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.156
+[lux.spells.q]
+skillshot_type = "missile"
+skillshot_width = 140
+skillshot_speed = 1200
+skillshot_range = 1300
+[lux.spells.e]
+skillshot_type = "circular_aoe"
+skillshot_radius = 310
+skillshot_speed = 1200
+[lux.spells.r]
+skillshot_type = "missile"
+skillshot_range = 3400
+
+[malphite]
+radius = 125
+attack_speed_base = 0.736
+attack_speed_ratio = 0.638
+attack_speed_windup_percent = 0.25
+[malphite.spells.r]
+skillshot_type = "circular_aoe"
+skillshot_radius = 325
+skillshot_speed = 1900
+
+[malzahar]
+radius = 89
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.19
+
+[maokai]
+radius = 125
+attack_speed_base = 0.8
+attack_speed_ratio = 0.695
+attack_speed_windup_percent = 0.3
+
+[master_yi]
+radius = 125
+attack_speed_base = 0.679
+attack_speed_ratio = 0.679
+attack_speed_windup_percent = 0.244
+
+[miss_fortune]
+radius = 100
+attack_speed_base = 0.656
+attack_speed_ratio = 0.656
+attack_speed_windup_percent = 0.148
+
+[mordekaiser]
+radius = 125
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.211
+[mordekaiser.spells.q]
+skillshot_type = "missile"
+skillshot_width = 160
+skillshot_range = 625
+[mordekaiser.spells.e]
+skillshot_type = "missile"
+skillshot_width = 200
+skillshot_speed = 3000
+skillshot_range = 900
+
+[morgana]
+radius = 120
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.14
+[morgana.spells.q]
+skillshot_type = "missile"
+skillshot_width = 140
+skillshot_speed = 1200
+skillshot_range = 1300
+
+[nami]
+radius = 125
+attack_speed_base = 0.644
+attack_speed_ratio = 0.644
+attack_speed_windup_percent = 0.18
+[nami.spells.r]
+skillshot_type = "missile"
+skillshot_width = 500
+skillshot_speed = 800
+skillshot_range = 2750
+
+[nasus]
+radius = 135
+attack_speed_base = 0.638
+attack_speed_ratio = 0.638
+attack_speed_windup_percent = 0.201
+
+[nautilus]
+radius = 125
+attack_speed_base = 0.706
+attack_speed_ratio = 0.612
+attack_speed_windup_percent = 0.306
+[nautilus.spells.q]
+skillshot_type = "missile"
+skillshot_width = 180
+skillshot_speed = 2000
+skillshot_range = 1122
+
+[naafiri]
+radius = 111
+attack_speed_base = 0.663
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.175
+
+[neeko]
+radius = 90
+attack_speed_base = 0.625
+attack_speed_ratio = 0.67
+attack_speed_windup_percent = 0.2
+[neeko.spells.e]
+skillshot_type = "missile"
+skillshot_width = 140
+skillshot_speed = 1300
+skillshot_range = 1000
+
+[nidalee]
+radius = 110
+attack_speed_base = 0.638
+attack_speed_ratio = 0.638
+attack_speed_windup_percent = 0.15
+[nidalee.spells.q]
+skillshot_type = "linear_name_based"
+skillshot_width = 80
+skillshot_name = "Javelin Toss"
+skillshot_speed = 1300
+skillshot_cast_time = 0.25
+skillshot_range = 1500
+
+[nilah]
+radius = 75
+attack_speed_base = 0.697
+attack_speed_ratio = 0.67
+attack_speed_windup_percent = 0.22
+
+[nocturne]
+radius = 120
+attack_speed_base = 0.721
+attack_speed_ratio = 0.721
+attack_speed_windup_percent = 0.201
+[nocturne.spells.q]
+skillshot_type = "missile"
+skillshot_width = 120
+skillshot_speed = 1600
+skillshot_range = 1000
+
+[nunu_willump]
+radius = 140
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+
+[olaf]
+radius = 111
+attack_speed_base = 0.694
+attack_speed_ratio = 0.694
+attack_speed_windup_percent = 0.234
+[olaf.spells.q]
+skillshot_type = "missile"
+skillshot_width = 180
+skillshot_speed = 1600
+skillshot_range = 1000
+
+[orianna]
+radius = 120
+attack_speed_base = 0.658
+attack_speed_ratio = 0.658
+attack_speed_windup_percent = 0.175
+[orianna.spells.q]
+skillshot_type = "missile"
+
+[ornn]
+radius = 125
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.219
+
+[pantheon]
+radius = 125
+attack_speed_base = 0.658
+attack_speed_ratio = 0.658
+attack_speed_windup_percent = 0.19
+[pantheon.spells.q]
+skillshot_type = "missile"
+skillshot_width = 120
+skillshot_speed = 2700
+
+[poppy]
+radius = 95
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.234
+
+[pyke]
+radius = 120
+attack_speed_base = 0.667
+attack_speed_ratio = 0.667
+attack_speed_windup_percent = 0.2
+
+[qiyana]
+radius = 120
+attack_speed_base = 0.688
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.153
+
+[quinn]
+radius = 120
+attack_speed_base = 0.668
+attack_speed_ratio = 0.668
+attack_speed_windup_percent = 0.175
+[quinn.spells.q]
+skillshot_type = "missile"
+skillshot_width = 120
+skillshot_speed = 1550
+skillshot_range = 1050
+
+[rakan]
+radius = 125
+attack_speed_base = 0.635
+attack_speed_ratio = 0.635
+attack_speed_windup_percent = 0.171
+[rakan.spells.q]
+skillshot_type = "missile"
+skillshot_range = 900
+
+[rammus]
+radius = 120
+attack_speed_base = 0.656
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.229
+
+[reksai]
+radius = 100
+attack_speed_base = 0.667
+attack_speed_ratio = 0.667
+
+[rell]
+radius = 120
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.21
+
+[renekton]
+radius = 125
+attack_speed_base = 0.665
+attack_speed_ratio = 0.665
+attack_speed_windup_percent = 0.177
+
+[rengar]
+radius = 70
+attack_speed_base = 0.667
+attack_speed_ratio = 0.667
+attack_speed_windup_percent = 0.2
+[rengar.spells.e]
+skillshot_type = "missile"
+skillshot_width = 140
+skillshot_speed = 1500
+skillshot_range = 1000
+
+[riven]
+radius = 130
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.167
+
+[rumble]
+radius = 165
+attack_speed_base = 0.644
+attack_speed_ratio = 0.644
+attack_speed_windup_percent = 0.2
+[rumble.spells.e]
+skillshot_type = "missile"
+skillshot_width = 120
+skillshot_speed = 2000
+skillshot_range = 950
+
+[ryze]
+radius = 120
+attack_speed_base = 0.658
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.2
+[ryze.spells.q]
+skillshot_type = "missile"
+skillshot_width = 110
+skillshot_speed = 1700
+skillshot_range = 1000
+
+[samira]
+radius = 100
+attack_speed_base = 0.658
+attack_speed_ratio = 0.658
+attack_speed_windup_percent = 0.15
+[samira.spells.q]
+skillshot_type = "missile"
+skillshot_width = 130
+skillshot_speed = 2600
+
+[sejuani]
+radius = 140
+attack_speed_base = 0.688
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.188
+
+[senna]
+radius = 115
+attack_speed_base = 0.625
+attack_speed_ratio = 0.4
+attack_speed_windup_percent = 0.312
+
+[seraphine]
+radius = 120
+attack_speed_base = 0.669
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.187
+[seraphine.spells.e]
+skillshot_type = "missile"
+skillshot_width = 140
+skillshot_speed = 1200
+skillshot_range = 1300
+[seraphine.spells.r]
+skillshot_type = "missile"
+skillshot_width = 320
+skillshot_speed = 1600
+skillshot_range = 1200
+
+[sett]
+radius = 100
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.214
+
+[shaco]
+radius = 135
+attack_speed_base = 0.694
+attack_speed_ratio = 0.694
+attack_speed_windup_percent = 0.221
+
+[shen]
+radius = 100
+attack_speed_base = 0.751
+attack_speed_ratio = 0.651
+attack_speed_windup_percent = 0.174
+[shen.spells.e]
+skillshot_type = "missile"
+skillshot_width = 100
+skillshot_speed = 800
+
+[shyvana]
+radius = 100
+attack_speed_base = 0.658
+attack_speed_ratio = 0.658
+attack_speed_windup_percent = 0.197
+
+[singed]
+radius = 135
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.2
+
+[sion]
+radius = 125
+attack_speed_base = 0.679
+attack_speed_ratio = 0.679
+attack_speed_windup_percent = 0.249
+[sion.spells.q]
+skillshot_type = "rectangle"
+skillshot_length = 800
+skillshot_width = 500
+skillshot_duration = 2.0
+
+[sivir]
+radius = 115
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.12
+[sivir.spells.q]
+skillshot_type = "missile"
+skillshot_width = 180
+skillshot_speed = 1450
+skillshot_range = 1250
+
+[skarner]
+radius = 130
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.18
+
+[sona]
+radius = 110
+attack_speed_base = 0.644
+attack_speed_ratio = 0.644
+attack_speed_windup_percent = 0.172
+[sona.spells.r]
+skillshot_type = "missile"
+skillshot_width = 280
+skillshot_speed = 2400
+skillshot_range = 1000
+
+[soraka]
+radius = 110
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.187
+
+[swain]
+radius = 100
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.14
+[swain.spells.e]
+skillshot_type = "linear_"
+skillshot_width = 170
+skillshot_speed = 1700
+
+[sylas]
+radius = 100
+attack_speed_base = 0.645
+attack_speed_ratio = 0.645
+attack_speed_windup_percent = 0.168
+
+[syndra]
+radius = 125
+attack_speed_base = 0.658
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.188
+
+[tahm_kench]
+radius = 125
+attack_speed_base = 0.658
+attack_speed_ratio = 0.658
+attack_speed_windup_percent = 0.25
+[tahm_kench.spells.q]
+skillshot_type = "missile"
+skillshot_width = 140
+skillshot_speed = 2800
+skillshot_range = 900
+
+[taliyah]
+radius = 120
+attack_speed_base = 0.658
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.161
+[taric.spells.e]
+skillshot_type = "missile"
+skillshot_width = 140
+
+[talon]
+radius = 120
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.124
+
+[taric]
+radius = 135
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.18
+
+[teemo]
+radius = 100
+attack_speed_base = 0.69
+attack_speed_ratio = 0.69
+attack_speed_windup_percent = 0.2
+
+[thresh]
+radius = 125
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.24
+[thresh.spells.q]
+skillshot_type = "missile"
+skillshot_width = 140
+skillshot_range = 1100
+skillshot_speed = 1900
+
+[tristana]
+radius = 100
+attack_speed_base = 0.656
+attack_speed_ratio = 0.679
+attack_speed_windup_percent = 0.148
+
+[trundle]
+radius = 135
+attack_speed_base = 0.67
+attack_speed_ratio = 0.67
+attack_speed_windup_percent = 0.208
+
+[tryndamere]
+radius = 135
+attack_speed_base = 0.67
+attack_speed_ratio = 0.67
+attack_speed_windup_percent = 0.19
+
+[twisted_fate]
+radius = 110
+attack_speed_base = 0.651
+attack_speed_ratio = 0.651
+attack_speed_windup_percent = 0.2
+
+[twitch]
+radius = 135
+attack_speed_base = 0.679
+attack_speed_ratio = 0.679
+attack_speed_windup_percent = 0.202
+
+[udyr]
+radius = 125
+attack_speed_base = 0.65
+attack_speed_ratio = 0.65
+attack_speed_windup_percent = 0.198
+
+[urgot]
+radius = 136
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.15
+
+[varus]
+radius = 120
+attack_speed_base = 0.658
+attack_speed_ratio = 0.658
+attack_speed_windup_percent = 0.175
+[varus.spells.q]
+skillshot_type = "missile"
+skillshot_width = 140
+skillshot_speed = 1900
+skillshot_range = 1600
+[varus.spells.r]
+skillshot_type = "missile"
+skillshot_width = 240
+skillshot_speed = 1500
+skillshot_range = 1370
+
+[vayne]
+radius = 120
+attack_speed_base = 0.658
+attack_speed_ratio = 0.658
+attack_speed_windup_percent = 0.175
+
+[veigar]
+radius = 93
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.191
+[veigar.spells.q]
+skillshot_type = "missile"
+skillshot_width = 140
+skillshot_speed = 2200
+skillshot_range = 1050
+[veigar.spells.w]
+skillshot_type = "circular_aoe"
+
+
+[velkoz]
+radius = 89
+attack_speed_base = 0.643
+[velkoz.spells.w]
+skillshot_type = "missile"
+skillshot_width = 175
+skillshot_speed = 1700
+skillshot_range = 1050
+
+[vex]
+radius = 100
+attack_speed_base = 0.669
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.156
+[vex.spells.r]
+skillshot_type = "missile"
+skillshot_width = 260
+skillshot_speed = 1600
+skillshot_range = 2000     # 2000/2500/3000
+
+[vi]
+radius = 100
+attack_speed_base = 0.644
+attack_speed_ratio = 0.644
+attack_speed_windup_percent = 0.225
+[vi.spells.q]
+skillshot_type = "missile"
+skillshot_width = 100
+skillshot_speed = 1250
+
+[viego]
+radius = 125
+attack_speed_base = 0.658
+attack_speed_ratio = 0.658
+attack_speed_windup_percent = 0.164
+
+[viktor]
+radius = 160
+attack_speed_base = 0.658
+attack_speed_ratio = 0.658
+attack_speed_windup_percent = 0.18
+[viktor.spells.e]
+skillshot_type = "missile"
+
+[vladimir]
+radius = 120
+attack_speed_base = 0.658
+attack_speed_ratio = 0.658
+attack_speed_windup_percent = 0.197
+
+[volibear]
+radius = 125
+attack_speed_base = 0.625
+attack_speed_ratio = 0.7
+attack_speed_windup_percent = 0.3
+
+[warwick]
+radius = 111
+attack_speed_base = 0.638
+attack_speed_ratio = 0.638
+attack_speed_windup_percent = 0.175
+
+[wukong]
+radius = 100
+attack_speed_base = 0.69
+attack_speed_ratio = 0.658
+attack_speed_windup_percent = 0.208
+
+[xayah]
+radius = 120
+attack_speed_base = 0.658
+attack_speed_ratio = 0.658
+attack_speed_windup_percent = 0.177
+
+[xerath]
+radius = 89
+attack_speed_base = 0.658
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.2
+[xerath.spells.q]
+skillshot_type = "missile"
+skillshot_width = 140
+skillshot_speed = 2000
+[xerath.spells.e]
+skillshot_type = "missile"
+skillshot_width = 120
+skillshot_speed = 1400
+[xerath.spells.w]
+skillshot_type = "circular_aoe"
+skillshot_radius = 275
+[xerath.spells.r]
+skillshot_type = "circular_aoe"
+skillshot_radius = 200
+
+[xin_zhao]
+radius = 108
+attack_speed_base = 0.645
+attack_speed_ratio = 0.645
+attack_speed_windup_percent = 0.187
+[xin_zhao.spells.w]
+skillshot_type = "missile"
+skillshot_width = 80
+skillshot_speed = 6250
+skillshot_range = 1000
+
+[yasuo]
+radius = 75
+attack_speed_base = 0.697
+attack_speed_ratio = 0.67
+attack_speed_windup_percent = 0.22
+[yasuo.spells.q]
+skillshot_type = "missile"
+# range 450/1150
+
+[yone]
+radius = 75
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.22
+[yone.spells.q]
+skillshot_type = "missile"
+[yone.spells.r]
+skillshot_type = "missile"
+skillshot_width = 225
+skillshot_speed = 2000
+# range 450/1050
+
+[yorick]
+radius = 125
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.206
+
+[yuumi]
+radius = 120
+attack_speed_base = 0.625
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.156
+
+[zac]
+radius = 90
+attack_speed_base = 0.736
+attack_speed_ratio = 0.638
+attack_speed_windup_percent = 0.231
+[zac.spells.q]
+skillshot_type = "missile"
+skillshot_width = 160
+skillshot_speed = 2800
+skillshot_range = 950
+[zac.spells.e]
+skillshot_type = "circular_aoe"
+skillshot_radius = 250
+skillshot_cast_time = 0
+
+[zed]
+radius = 100
+attack_speed_base = 0.651
+attack_speed_ratio = 0.651
+attack_speed_windup_percent = 0.198
+[zed.spells.q]
+skillshot_type = "missile"
+skillshot_width = 100
+skillshot_speed = 1700
+skillshot_range = 925
+
+[zeri]
+radius = 100
+attack_speed_base = 0.658
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.156
+
+[ziggs]
+radius = 100
+attack_speed_base = 0.656
+attack_speed_ratio = 0.656
+attack_speed_windup_percent = 0.2
+[ziggs.spells.q]
+skillshot_type = "missile"
+skillshot_width = 360
+skillshot_speed = 1700
+[ziggs.spells.w]
+skillshot_type = "circular_aoe"
+skillshot_radius = 325
+skillshot_cast_time = 0.25
+skillshot_speed = 1750
+[ziggs.spells.r]
+skillshot_type = "circular_aoe"
+skillshot_radius = 525
+skillshot_cast_time = 0.375
+skillshot_speed = 2250
+
+[zilean]
+radius = 135
+attack_speed_base = 0.658
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.18
+
+[zoe]
+radius = 120
+attack_speed_base = 0.658
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.161
+
+[zyra]
+radius = 120
+attack_speed_base = 0.681
+attack_speed_ratio = 0.625
+attack_speed_windup_percent = 0.146
+[zyra.spells.q]
+skillshot_type = "missile"
+skillshot_width = 280
+skillshot_speed = 1150
