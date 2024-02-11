@@ -1,12 +1,12 @@
 # External League of Legends Cheat (Rust)
-This project is an external cheat for League of Legends, written in Rust. 
+This project is a Winapi based cheat for League of Legends, written in Rust. 
 
 ## Project Overview
-This cheat was developed as a personal challenge to learn the basics of reverse engineering, mathematics, and programming, starting from scratch. It includes several noteworthy features, such as a champion database and an innovative evade implementation utilizing an external is_point_in_wall function, which is relatively rare in external cheats due to its complexity.
+This cheat was developed as a personal challenge to learn the basics of reverse engineering, programming, and mathematics, starting from scratch. It includes several features, such as a projectile predictor, a cool circular gui, and an evade projectiles implementation utilizing an external is_point_in_wall function, which is relatively rare in external cheats due to its complexity. 
 
 ## Demos
 - Evade: https://github.com/Hampton33/Spooky-Caspar/assets/145158981/182b1ef4-f062-4bba-b715-226726893c1c
-- Circular GUI Cheat Menu: https://github.com/Hampton33/Spooky-Caspar/assets/145158981/cff51fb6-701a-4b7e-b698-503e30e8bcee
+- Circular GUI Menu: https://github.com/Hampton33/Spooky-Caspar/assets/145158981/cff51fb6-701a-4b7e-b698-503e30e8bcee
 
 
 
@@ -16,4 +16,4 @@ The development of this cheat has been a productive and enjoyable experience, se
 - Educational Purpose: This project was primarily educational, aimed at understanding the mechanics of game hacking and the fundamentals of programming.
 
 ## Conclusion
-Reflecting on this project, I am satisfied with the progress and insights gained over this month-long with 7000 lines of code solo-journey. Despite its current limitations, the project lays a solid foundation for future exploration.
+Reflecting on this project, I am satisfied with the progress and insights gained over this month-long with 7000 lines of code journey. Despite its current limitations, the project lays a solid foundation for future exploration.
