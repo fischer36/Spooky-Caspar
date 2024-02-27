@@ -16,6 +16,7 @@ The development of this cheat has been a productive and enjoyable experience, se
 - Educational Purpose: This project was primarily educational, aimed at understanding the mechanics of game hacking and the fundamentals of programming.
 
 ## Installation
-Cargo build to compile
-You would have to update the offsets yourself as they become obsolete with every game patch.
+- Cargo build to compile
+- You would have to update the offsets yourself as they become obsolete with every game patch.
+- As of before the games new anticheat (vanguard) this remains undetected, but when vanguard is out you will have to find a bypass.
 
