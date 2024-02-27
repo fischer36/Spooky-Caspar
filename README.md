@@ -15,5 +15,7 @@ The development of this cheat has been a productive and enjoyable experience, se
 - Code Quality: The current codebase is acknowledged to be sub-optimal and disorganized. Due to limitations with the game's new anti-cheat, Vanguard, further testing and refinement are not feasible as of right now.
 - Educational Purpose: This project was primarily educational, aimed at understanding the mechanics of game hacking and the fundamentals of programming.
 
-## Conclusion
-Reflecting on this project, I am satisfied with the progress and insights gained over this month-long with 7000 lines of code journey. Despite its current limitations, the project lays a solid foundation for future exploration.
+## Installation
+Cargo build to compile
+You would have to update the offsets yourself as they become obsolete with every game patch.
+
