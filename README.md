@@ -2,7 +2,7 @@
 This project is a Winapi based cheat for League of Legends, written in Rust. 
 
 ## Project Overview
-Cheat works by reading memory from game processes, such as enemy health and location etc. It can draw over the game window using a transparent overlay, auto dodge projectiles and auto aim abilities.
+Cheat works by reading memory from the game's process, such as enemy health and location etc. It can draw over the game window using a transparent overlay, auto dodge projectiles and auto aim abilities.
 
 ## Video Demos
 - Evade: https://github.com/Hampton33/Spooky-Caspar/assets/145158981/182b1ef4-f062-4bba-b715-226726893c1c
