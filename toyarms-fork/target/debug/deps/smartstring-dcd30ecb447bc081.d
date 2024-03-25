@@ -1,0 +1,11 @@
+C:\Users\joakr\Documents\Rust projects\toyarms-fork\target\debug\deps\libsmartstring-dcd30ecb447bc081.rmeta: C:\Users\joakr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\smartstring-0.2.10\src\lib.rs C:\Users\joakr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\smartstring-0.2.10\src\config.rs C:\Users\joakr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\smartstring-0.2.10\src\marker_byte.rs C:\Users\joakr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\smartstring-0.2.10\src\inline.rs C:\Users\joakr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\smartstring-0.2.10\src\boxed.rs C:\Users\joakr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\smartstring-0.2.10\src\casts.rs C:\Users\joakr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\smartstring-0.2.10\src\iter.rs
+
+C:\Users\joakr\Documents\Rust projects\toyarms-fork\target\debug\deps\smartstring-dcd30ecb447bc081.d: C:\Users\joakr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\smartstring-0.2.10\src\lib.rs C:\Users\joakr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\smartstring-0.2.10\src\config.rs C:\Users\joakr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\smartstring-0.2.10\src\marker_byte.rs C:\Users\joakr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\smartstring-0.2.10\src\inline.rs C:\Users\joakr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\smartstring-0.2.10\src\boxed.rs C:\Users\joakr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\smartstring-0.2.10\src\casts.rs C:\Users\joakr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\smartstring-0.2.10\src\iter.rs
+
+C:\Users\joakr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\smartstring-0.2.10\src\lib.rs:
+C:\Users\joakr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\smartstring-0.2.10\src\config.rs:
+C:\Users\joakr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\smartstring-0.2.10\src\marker_byte.rs:
+C:\Users\joakr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\smartstring-0.2.10\src\inline.rs:
+C:\Users\joakr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\smartstring-0.2.10\src\boxed.rs:
+C:\Users\joakr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\smartstring-0.2.10\src\casts.rs:
+C:\Users\joakr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\smartstring-0.2.10\src\iter.rs:

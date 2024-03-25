@@ -9,11 +9,11 @@ Cheat works by reading memory from the game's process, such as enemy health and 
 - Circular GUI Menu: https://github.com/Hampton33/Spooky-Caspar/assets/145158981/cff51fb6-701a-4b7e-b698-503e30e8bcee
 
 ## Development Notes
-- Code Quality: The current codebase is acknowledged to be sub-optimal and disorganized. This is because i started this with no previous programming experience and also it has been left in a state of progress and debugging and not yet been finalized and optimized due to limitations with the game's new anti-cheat, Vanguard, further testing and refinement is less interesting.
+- Code Quality: The current codebase is acknowledged to be sub-optimal and disorganized. It has been left in a state of progress and debugging and not yet been finalized and optimized due to limitations from the game's new anti-cheat, Vanguard, further testing and refinement is less interesting.
 - Educational Purpose: This project was primarily educational, aimed at understanding the mechanics of game hacking and the fundamentals of programming.
 
 ## Installation
 - Cargo build to compile
 - You would have to update the offsets yourself as they become obsolete with every game patch.
-- Get into a match, execute the binary and the menu will show up.
-- As of before the game's new anti cheat (vanguard) this remains undetected, but when vanguard is out you will have to find a bypass.
+- Get into a match, start the app and the menu will show up (hopefully).
+
